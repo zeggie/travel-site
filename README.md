@@ -1,3 +1,16 @@
 # travel-site
 
-Properly learning how to use Git and Github
+## Install Dependencies
+
+```bash
+npm install 
+```
+
+## Run Dev Server
+
+```bash
+gulp watch
+```
+
+Small code components for readability 
+
